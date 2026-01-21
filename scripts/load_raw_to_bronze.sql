@@ -5,8 +5,8 @@
 ==================================================================================================================================*/
 
 DELIMITER $$
-DROP PROCEDURE IF EXISTS sp_load_bronze_layer;
-CREATE PROCEDURE sp_load_bronze_layer()
+DROP PROCEDURE IF EXISTS load_bronze;
+CREATE PROCEDURE load_bronze()
 BEGIN
 	DECLARE v_start_time_global TIMESTAMP;			-- Declared variable to get start time 
     DECLARE v_start_time TIMESTAMP;              	 -- Declared variable to get start time 
@@ -112,7 +112,7 @@ DELIMITER ;
 		********************************* END OF PROCEDURE****************************************************
 ======================================================================================================================================*/
 
-CALL sp_load_bronze_layer();                 			-- calling store procedure
+CALL load_bronze();                 			-- calling store procedure
 
 SELECT * FROM dwh_bronze.crm_prd_info; 					-- rechecking the stored table data
 SELECT COUNT(*) FROM dwh_bronze.crm_prd_info_raw;
