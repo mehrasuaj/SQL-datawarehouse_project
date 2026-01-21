@@ -93,4 +93,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Suraj Mehra**. I’m an IT professional and this is my first MYSQL Project on Github.
+Hi there! I'm **Suraj Mehra**. I am a data professional with 6+ years of experience in IT product support, currently transitioning into Data Analytics and Data Engineering. Over the years, I developed strong problem-solving skills, data debugging expertise, and a deep understanding of how business systems generate and consume data.
+
+To formalize my transition, I have been building end-to-end Data Warehouse projects from scratch, focusing on real-world ETL design, data quality, and analytics readiness. This repository showcases my hands-on work in designing a Bronze–Gold layered warehouse, transforming raw operational data into clean, analytics-ready datasets.
