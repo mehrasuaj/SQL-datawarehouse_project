@@ -4,10 +4,10 @@ CREATING STORE PROCEDURE TO LOAD SILVER LAYER FROM BRONZE LAYER
 
 ---------------------------------------------------------------------------------------------------------------------------------*/
 
-DROP PROCEDURE IF EXISTS dwh_silver.sp_load_silver;									-- DROPPING IF ALREAD EXISTS
+DROP PROCEDURE IF EXISTS dwh_silver.load_silver;									-- DROPPING IF ALREAD EXISTS
 
 DELIMITER $$
-CREATE PROCEDURE dwh_silver.sp_load_silver ()
+CREATE PROCEDURE dwh_silver.load_silver ()
 BEGIN
 	DECLARE v_start_time_global TIMESTAMP;										-- VARIABLE TO GET START TIME FOR WHOLE LOAD
 	DECLARE v_start_time TIMESTAMP;												-- VARIABLE TO GET LOAD'S START TIME FOR EACH TABLE
