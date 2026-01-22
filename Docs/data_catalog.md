@@ -38,7 +38,7 @@ The Gold Layer is the business-level data representation, structured to support 
 | category            | VARCHAR(50)   | The broader classification of the product (e.g., Bikes, Components) to group related items.          |
 | subcategory         | VARCHAR(50)   | A more detailed classification of the product within the category, such as product type.             |
 | maintenance	        | VARCHAR(50)   | Indicates whether the product requires maintenance (e.g., 'Yes', 'No').                              |
-| cost                | INT           | The cost or base price of the product, measured in monetary units.                                   |
+| product_amount      | INT           | The cost or base price of the product, measured in monetary units.                                   |
 | product_line        | VARCHAR(50)   | The specific product line or series to which the product belongs (e.g., Road, Mountain).             |
 | start_date          | DATE          | The date when the product became available for sale or use, stored in.     			     |
 
