@@ -93,6 +93,41 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Suraj Mehra**. I am a data professional with 6+ years of experience in IT product support, currently transitioning into Data Analytics and Data Engineering. Over the years, I developed strong problem-solving skills, data debugging expertise, and a deep understanding of how business systems generate and consume data.
+Hi there! 👋 I’m **Suraj Mehra**.
 
-To formalize my transition, I have been building end-to-end Data Warehouse projects from scratch, focusing on real-world ETL design, data quality, and analytics readiness. This repository showcases my hands-on work in designing a Bronze–Gold layered warehouse, transforming raw operational data into clean, analytics-ready datasets.
+I am a data professional with **6+ years of experience in IT Product Support**, currently transitioning into **Data Analytics and Data Engineering**. My background has given me strong skills in:
+
+- Problem solving and root-cause analysis  
+- Data debugging and validation  
+- Understanding how enterprise systems generate and consume data  
+
+To formalize my transition, I have built this **end-to-end Data Warehouse projects**, focusing on:
+
+- Real-world ETL design  
+- Data quality and validation checks  
+- Analytics-ready data modeling  
+
+This repository reflects my hands-on learning and practical approach to **turning raw data into meaningful insights** using SQL.
+
+---
+
+## 📌 Who This Repository Is For
+
+- Aspiring **Data Analysts / Data Engineers**
+- BI professionals looking for reusable SQL patterns
+- Anyone preparing for **SQL interviews**
+- Learners who want **realistic analytics examples**, not toy problems
+
+- **Also refer to my data analytics project through this link**
+-   **https://github.com/mehrasuaj/data-analytics-project-mysql.git**
+
+---
+
+## 📫 Let’s Connect
+
+- **GitHub**: https://github.com/mehrasuaj  
+- **LinkedIn**: www.linkedin.com/in/suraj-mehra-898399172
+
+---
+
+⭐ If you find this repository useful, feel free to **star** it and explore the linked Data Warehouse project!
